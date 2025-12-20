@@ -23,7 +23,7 @@
 
 <img src="images/teaser.png" alt="Teaser" width="100%">
 
-In this work, we introduce **U4D**, an uncertainty-aware framework for 4D LiDAR world modeling. The main contributes are:
+In this work, we introduce **U4D**, an uncertainty-aware framework for 4D LiDAR world modeling. The main contributions are:
 
 - We introduce the **first** uncertainty-aware LiDAR generation framework that explicitly models spatial difficulty to enhance reliability in 4D world modeling.
 - We design a **two-stage hard-to-easy** generation paradigm that reconstructs uncertain regions first and then completes the full scene under these priors.
@@ -35,7 +35,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ```bibtex
 @article{xu2025U4D,
-    title   = {{U4D}: Uncertainty-Aware {4D} World Modeling from LiDAR Sequences},
+    title   = {{U4D}: Uncertainty-Aware {4D} World Modeling from {LiDAR} Sequences},
     author  = {Xu, Xiang and Liang, Ao and Liu, Youquan and Li, Linfeng and Kong, Lingdong and Liu, Ziwei and Liu, Qingshan},
     journal = {arXiv preprint arXiv: 2512.02982},
     year    = {2025}
